@@ -1,4 +1,16 @@
-# CSB_P3
-Project 3 for CSB 320
+# CSB320_P3
+Project 3 for CSB 320: Clustering
 
 [View this project on GitHub Pages](https://milescaprio.github.io/CSB320_P3)
+
+-Or-
+
+Setup: 
+
+`conda env create`
+
+`conda activate csb320-p3`
+
+run:
+- analyses_credit_card.ipynb
+- analyses_spotify.ipynb
